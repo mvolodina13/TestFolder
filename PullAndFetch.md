@@ -32,12 +32,12 @@ Adding the `-m` option allows you to pass in a new message from the command line
 * **Changing committed files**
 The following example demonstrates a common scenario in Git-based development. Let's say we've edited a few files that we would like to commit in a single snapshot, but then we forget to add one of the files the first time around. Fixing the error is simply a matter of staging the other file and committing with the `--amend` flag:
 
-`# Edit hello.py and main.py`
-`git add hello.py`
-`git commit `
-`# Realize you forgot to add the changes from main.py` 
-`git add main.py`
-`git commit --amend --no-edit`
+`# Edit hello.py and main.py`  
+`git add hello.py`  
+`git commit `  
+`# Realize you forgot to add the changes from main.py`   
+`git add main.py`  
+`git commit --amend --no-edit`  
 
 The `--no-edit` flag will allow you to make the amendment to your commit without changing its commit message. The resulting commit will replace the incomplete one, and it will look like we committed the changes to `hello.py` and `main.py` in a single snapshot.
 
