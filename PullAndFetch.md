@@ -1,4 +1,4 @@
-#** GIT FETCH vs. GIT FETCH**
+** GIT FETCH vs. GIT FETCH**
 
 
 | Feature        | `git fetch`                                            | `git pull`                                                              |
