@@ -9,4 +9,6 @@
 | Flexibility    | More flexible, allows reviewing changes before merging | Less flexible, merges changes automatically                             |
 
 
-![Not available!](\c\Users\mvolodina\Pictures\JS\PullAndFetch)
+![Not available!](https://itknowledgeexchange.techtarget.com/coffee-talk/files/2023/05/git-fetch-vs-merge.gif)
+
+1. A git pull operation is equivalent to a git fetch and merge.
