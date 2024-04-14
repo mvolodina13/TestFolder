@@ -11,4 +11,8 @@
 
 ![Not available!](https://itknowledgeexchange.techtarget.com/coffee-talk/files/2023/05/git-fetch-vs-merge.gif)
 
-1. A git pull operation is equivalent to a git fetch and merge.
+*A git pull operation is equivalent to a git fetch and merge*
+
+# Documentation
+* [Git Fetch](https://git-scm.com/docs/git-fetch)
+* [Git Pull](https://git-scm.com/docs/git-pull)
