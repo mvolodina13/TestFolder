@@ -35,7 +35,7 @@ The following example demonstrates a common scenario in Git-based development. L
 `# Edit hello.py and main.py
 git add hello.py
 git commit 
-# Realize you forgot to add the changes from main.py 
+`# Realize you forgot to add the changes from main.py 
 git add main.py 
 git commit --amend --no-edit`
 
